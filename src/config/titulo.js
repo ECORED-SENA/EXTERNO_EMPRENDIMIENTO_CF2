@@ -1,1 +1,1 @@
-module.exports = 'Emprendedor del siglo XXI'
+module.exports = 'Competencias del Joven Emprendedor'

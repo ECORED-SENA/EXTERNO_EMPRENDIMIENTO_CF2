@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Emprendedor del siglo XXI',
+    componenteFormativo: 'Competencias del Joven Emprendedor',
     descripcionCurso:
       'En este componente podrás encontrar los aspectos básicos que tiene el emprendimiento y el emprendedor, teniendo en cuenta las características interiores y su relación con el entorno.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),

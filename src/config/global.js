@@ -76,11 +76,11 @@ export default {
       },
     ],
     subMenu: [
-      {
-        icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
-        nombreRuta: 'sintesis',
-      },
+      //{
+      //  icono: 'fas fa-sitemap',
+      //  titulo: 'Sintesis',
+      //  nombreRuta: 'sintesis',
+      //},
       //{
       //  nombreRuta: 'actividad',
       //  icono: 'far fa-question-circle',
@@ -92,11 +92,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //  nombreRuta: 'complementario',
+      //  icono: 'far fa-folder-open',
+      //  titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',

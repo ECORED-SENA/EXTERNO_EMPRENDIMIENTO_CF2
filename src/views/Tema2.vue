@@ -40,13 +40,13 @@
                 a.boton.color-acento-contenido(target="_blank" href="https://www.youtube.com/watch?v=8V-Vn04ynCs") Ver video
         .col-lg-5
           figure
-            img.imagen_1(src="@/assets/curso/tema2/2.svg" data-aos="fade-right" style="position: absolute;width: auto;bottom: -15px;right:-50px;")
+            img.imagen_1(src="@/assets/curso/tema2/2.png" data-aos="fade-right" style="position: absolute;width: auto;bottom: -15px;right:-50px;")
       .row.mt-4.p-3(style="background-color:#E8EEF3;")
         .col-lg-7
           p.p-4(data-aos="fade-up" style="border-left:6px #26A69A solid;") Te has preguntado #[strong ¿qué capacidades necesita un emprendedor joven?], tal vez las primeras respuestas giran en torno a habilidades específicas de su idea, por ejemplo, si se trata de un emprendimiento de publicidad para empresas en redes sociales, seguramente lo primero que se nos ocurre son capacidades en diseño, fotografía, redacción y posiblemente en ventas, pero realmente #[strong el emprendedor joven requiere algo que va más allá y es el caso de las competencias emprendedoras].
 
     figure.mt-5
-      img(src="@/assets/curso/tema2/3.svg" data-aos="fade-up")
+      img(src="@/assets/curso/tema2/3.png" data-aos="fade-up")
     .p-3.col-lg-11.m-auto(style="background: rgb(18,104,191);background: radial-gradient(circle, rgba(18,104,191,1) 0%, rgba(222,222,222,1) 0%, rgba(222,222,222,1) 95%, rgba(201,201,201,1) 100%, rgba(246,244,254,1) 100%);border-radius:15px;margin-top:-45px !important;z-index:1;position:relative;")
       p.mb-0.text-small(data-aos="fade-up") Empecemos definiendo el #[strong(style="color:#1565C0;") concepto de competencia], cuando hablamos de competencia #[strong nos referimos a actitudes, conocimientos y habilidades para realizar una tarea o alcanzar un objetivo, es decir, que no solamente es conocer, sino que también hay que desarrollar habilidades prácticas y tener actitudes correctas para desarrollar una habilidad] (Servicio Nacional de Aprendizaje SENA, s. f.). Revisa el recurso propuesto y profundiza en las competencias emprendedoras.
 
@@ -114,7 +114,7 @@
       .row(style="z-index:2;position:relative")
         .col-lg-4
           figure
-            img(src="@/assets/curso/tema2/14.svg")
+            img(src="@/assets/curso/tema2/14.png")
         .col-lg-8
           p(data-aos="fade-up") #[strong La responsabilidad para un emprendedor joven es un aspecto importante a tener en cuenta en todo lo que una persona se propone, ya que el emprendedor debe autogestionarse y comprometerse consigo mismo en la consecución de resultados]. Un instrumento interesante que permite entender la importancia de la responsabilidad es el triángulo de la responsabilidad.
           p.mt-4(data-aos="fade-up") El triángulo está compuesto por  tres vértices:
@@ -146,7 +146,7 @@
             p(data-aos="fade-up") Como vemos el pensar, sentir y actuar son acciones propias del ser humano y gestionarlas de manera responsable está en tus manos llevándote a transformar poderosamente tu vida y tu entorno.
         .col-lg-4
           figure
-            img(src="@/assets/curso/tema2/19.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema2/19.png" data-aos="fade-right")
 
     Separador
 
@@ -155,7 +155,7 @@
 
     .row.caja_gradiente(style="position:relative")
       .col-lg-4
-        img.imagen_1(src="@/assets/curso/tema2/20.svg" data-aos="fade-left" style="position:absolute;z-index:2;width: auto;top: -74px;left: -37px;")
+        img.imagen_1(src="@/assets/curso/tema2/20.png" data-aos="fade-left" style="position:absolute;z-index:2;width: auto;top: -74px;left: -37px;")
       .col-lg-8
         div.p-4(style="position:relative;")
           p(data-aos="fade-up" style="position:relative;z-index:2;") Sin duda alguna #[strong un emprendedor joven es una persona en constante reinvención y debe tener la disposición para desarrollar habilidades conforme a la humanidad vaya avanzando], por ejemplo si hiciéramos un análisis de lo que sucedía hace unos 20 años escuchar la palabra community manager era algo que no tenía sentido, pero hoy es un término común, lo que nos lleva a pensar que las personas han tenido que desarrollar habilidades para poder ejercer esa labor y por supuesto #[strong(style="color:#21999A") los emprendedores para integrar las habilidades de ese cargo a sus emprendimientos y planeaciones, reconocer la importancia de las redes sociales y la creación de contenido].
@@ -184,7 +184,7 @@
               p.mb-0 #[i.fas.fa-layer-group(style="color:#039BE5;")] Conciencia y expresión culturales
         .col-lg-5
           figure.text-center
-            img(src="@/assets/curso/tema2/21.svg" data-aos="fade-right" style="display:inline;")
+            img(src="@/assets/curso/tema2/21.png" data-aos="fade-right" style="display:inline;")
       .col-11.m-auto.mt-5
         .row
           .col-lg-6

@@ -11,7 +11,7 @@
       .row
         .col-lg-4
           figure
-            img(src="@/assets/curso/tema1/1.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema1/1.png" data-aos="fade-right")
         .col-lg-8
           p(data-aos="fade-left") La primera pregunta que puede surgir frente a este tema es #[strong ¿Qué es el emprendimiento?] Ya que este es un término que comúnmente se escucha en medios y en diversos entornos. Un concepto interesante es el que aporta Jeffrey A. Timmons #[strong “El emprendimiento significa tomar acciones humanas, creativas para construir algo de valor a partir de prácticamente nada”] (Timmons, 1989), así que el autor menciona elementos como la acción humana ya que el emprendimiento requiere que haya iniciativa por parte de la persona y que pase de una idea hacia una acción.
           .cajon.color-acento-contenido.p-4.mt-4
@@ -31,7 +31,7 @@
             a.boton.color-acento-contenido(target="_blank" href="https://www.youtube.com/watch?v=WTiM1yq99oI") Ver video
           .col-lg-4.text-center
             figure
-              img(src="@/assets/curso/tema1/4.svg" data-aos="fade-right" style="max-width:200px;display:inline")
+              img(src="@/assets/curso/tema1/4.png" data-aos="fade-right" style="max-width:200px;display:inline")
 
     br
     br
@@ -61,7 +61,7 @@
       h2#t_1_2 1.2 Emprendimiento digital
 
     figure
-      img(src="@/assets/curso/tema1/7.svg" data-aos="fade-up")
+      img(src="@/assets/curso/tema1/7.png" data-aos="fade-up")
     .p-3.col-lg-11.m-auto(style="background: rgb(18,104,191);background: radial-gradient(circle, rgba(18,104,191,1) 0%, rgba(222,222,222,1) 0%, rgba(222,222,222,1) 95%, rgba(201,201,201,1) 100%, rgba(246,244,254,1) 100%);border-radius:15px;margin-top:-45px !important;z-index:1;position:relative;")
       p.mb-0.text-small(data-aos="fade-up") #[strong La era digital ha llegado, cada día es más fácil desarrollar procesos educativos], comerciales, personales o de diversa índole con solo tener una conexión a internet y un teléfono móvil o dispositivo de conexión, lo que lleva a las personas a desarrollar nuevas habilidades y adaptarse a los cambios.
 
@@ -72,7 +72,7 @@
           p.p-4(data-aos="fade-up" style="border-left:6px #1565C0 solid") #[strong Con los vertiginosos cambios que se han presentado en la era digital se han generado grandes oportunidades gracias a la democratización del conocimiento, la información, las herramientas, los inversionistas y en general], a un sin número de ventajas que las generaciones anteriores no tuvieron la oportunidad de acceder a ellas. Antes era casi imposible pensar  en una iniciativa de negocio, emprendimiento o una empresa por parte de jóvenes que primero debían recorrer un largo camino, realizar su escuela básica, secundaria y universitaria.
       .col-lg-5(style="position:relative;z-index:2")
         figure
-          img(src="@/assets/curso/tema1/8.svg" data-aos="fade-right")
+          img(src="@/assets/curso/tema1/8.png" data-aos="fade-right")
 
     p.mt-5(data-aos="fade-up") Para ampliar un poco la experiencia sobre el emprendimiento digital te invitamos a ver el  video sobre un bootcamp de emprendimiento digital en Guaviare donde las personas hablan de su experiencia.
 
@@ -87,7 +87,7 @@
           a.boton.color-acento-contenido(target="_blank" href="https://www.youtube.com/watch?v=ispoPs-zQLk") Ver video
         .col-lg-4.text-center
           figure
-            img(src="@/assets/curso/tema1/4.svg" data-aos="fade-right" style="max-width:200px;display:inline")
+            img(src="@/assets/curso/tema1/4.png" data-aos="fade-right" style="max-width:200px;display:inline")
 
     .titulo-segundo.mt-5
       h2#t_1_3 1.3 Explorando oportunidades para jóvenes emprendedores
@@ -95,7 +95,7 @@
     .row.cont_caja3.pb-5
       .col-lg-4
         figure
-          img(src="@/assets/curso/tema1/10.svg" data-aos="fade-left" style="position:relative;z-index:2;")
+          img(src="@/assets/curso/tema1/10.png" data-aos="fade-left" style="position:relative;z-index:2;")
       .col-lg-8
         h4.text-white.p-2.col-lg-6(style="background-color:#12263F;text-align:right;margin-left:-240px;margin-top:20px;position:relative;z-index:1;") ¿Y qué es una idea de negocio?
 
@@ -111,7 +111,7 @@
           .row.cont_caja_4.p-5
             .col-md-4
               figure
-                img(src="@/assets/curso/tema1/12.svg" style="max-width:100%;display:inline")
+                img(src="@/assets/curso/tema1/12.png" style="max-width:100%;display:inline")
             .col-md-8(style="place-self:center")
               p De la misma forma en nuestros emprendimientos es importante también analizar el entorno para poder tomar decisiones ante diferentes factores; la publicidad, convocatorias y apoyos, posibles aliados, actores, entre otros.
           .row.cont_caja_4.p-5
@@ -141,7 +141,7 @@
           .row.cont_caja_4.p-5
             .col-md-4
               figure
-                img(src="@/assets/curso/tema1/17.svg" style="max-width:100%;display:inline")
+                img(src="@/assets/curso/tema1/17.png" style="max-width:100%;display:inline")
             .col-md-8(style="place-self:center")
               p Por otra parte, frente al reconocimiento del entorno, que nos permitirá encontrar fuentes de financiación, convocatorias públicas o privadas.Además de posibles aliados en el mismo nicho o redes de emprendedores, influenciadores en redes sociales para realizar colaboraciones, eventos, ferias etc.
           .row.cont_caja_4.p-5

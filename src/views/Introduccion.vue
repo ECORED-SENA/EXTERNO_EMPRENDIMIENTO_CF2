@@ -32,7 +32,7 @@ export default {
 .bloque-texto-a.color-secundario
   background-color: #F6F6F6
 .bloque-texto-a
-  background: url("../assets/curso/introduccion/1.svg")
+  background: url("../assets/curso/introduccion/1.png")
   background-repeat: no-repeat
   background-position-y: -33px
   background-size: contain

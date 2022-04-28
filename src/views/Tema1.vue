@@ -44,12 +44,12 @@
         figure(style="position:relative;z-index:2;")
           img(src="@/assets/curso/tema1/5.png")
       .col-lg-7(style="position:relative;z-index:2;")
-        .p-4.col-lg-12(style="background-color:#E8EEF3;margin-left: -75px;position: relative;")
+        .p-4.col-lg-12(style="background-color:#E8EEF3;position: relative;")
           p.p-4(data-aos="fade-up" style="border-left:7px #12263F solid;") #[strong Con los vertiginosos cambios que se han presentado en la era digital se han generado grandes oportunidades gracias a la democratización del conocimiento, la información, las herramientas, los inversionistas y en general], a un sin número de ventajas que las generaciones anteriores no tuvieron la oportunidad de acceder a ellas. Antes era casi imposible pensar  en una iniciativa de negocio, emprendimiento o una empresa por parte de jóvenes que primero debían recorrer un largo camino, realizar su escuela básica, secundaria y universitaria.
         div(style="position:absolute;background-color:#ECF9FC;width: 100%;height: 500px;z-index: -1;top: 139px;")
         .p-5(style="background-color:#ECF9FC")
           p(data-aos="fade-up") Hoy es diferente, #[strong el emprendimiento digital ha roto muchos de los paradigmas y consigo a representado para las nuevas generaciones un sin número de oportunidades], casi en bandeja de plata, dispuestas para la creación e incursión en diversos y nuevos modelos de negocio sin ningún tipo de limitaciones y que permiten tangibilizar esos proyectos en realidad.
-        div(style="background: rgb(18,104,191);background: background: rgb(18,104,191);background: linear-gradient(180deg, rgb(31 115 199) 84%, rgb(8 78 151) 99%, rgb(0 0 0) 100%, rgb(6 51 94) 100%, rgb(246, 244, 254) 100%);border-radius:20px;margin-left:-25px;")
+        div(style="background: rgb(18,104,191);background: background: rgb(18,104,191);background: linear-gradient(180deg, rgb(31 115 199) 84%, rgb(8 78 151) 99%, rgb(0 0 0) 100%, rgb(6 51 94) 100%, rgb(246, 244, 254) 100%);border-radius:20px;")
           figure
             img(src="@/assets/curso/tema1/6.svg" style="max-width:80px;margin-left:60px;margin-top:-10px;display:inline;")
           .p-4.text-center
@@ -143,7 +143,7 @@
               figure
                 img(src="@/assets/curso/tema1/17.png" style="max-width:100%;display:inline")
             .col-md-8(style="place-self:center")
-              p Por otra parte, frente al reconocimiento del entorno, que nos permitirá encontrar fuentes de financiación, convocatorias públicas o privadas.Además de posibles aliados en el mismo nicho o redes de emprendedores, influenciadores en redes sociales para realizar colaboraciones, eventos, ferias etc.
+              p Por otra parte, frente al reconocimiento del entorno, que nos permitirá encontrar fuentes de financiación, convocatorias públicas o privadas. Además de posibles aliados en el mismo nicho o redes de emprendedores, influenciadores en redes sociales para realizar colaboraciones, eventos, ferias etc.
           .row.cont_caja_4.p-5
             .col-md-4
               figure

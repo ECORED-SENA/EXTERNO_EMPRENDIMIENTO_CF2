@@ -57,7 +57,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.1',
             titulo:
-              'Características y competencias del emprendedor jovenn digital',
+              'Características y competencias del emprendedor joven digital',
             hash: 't_2_1',
           },
           {
@@ -129,11 +129,6 @@ export default {
     },
     {
       referencia:
-        'García-Macías, M. A., Zerón-Félix, M., & Sánchez-Tovar, Y. (2018). Factores de entorno determinantes del emprendimiento en México. Entramado, 14(1), 88–103.',
-      link: 'https://doi.org/10.18041/entramado.2018v14n1.2712',
-    },
-    {
-      referencia:
         'Lindner, J. (2021). formación para el emprendimiento para entidades de EFTP. UNESCO.',
       link:
         'https://unevoc.unesco.org/pub/entrepreneurial_learning_guide_es.pdf',
@@ -168,7 +163,7 @@ export default {
         'Rasgos de la personalidad ligadas a las motivaciones de los individuos (logro, afiliación y poder) y que están asociadas al éxito de cualquier proyecto personal. Se basan en las investigaciones del psicólogo David McClelland realizadas en la década de los años 60.',
     },
     {
-      termino: 'Community manager',
+      termino: '<em>Community management</em>',
       significado:
         'Profesional encargado de la imagen web de una empresa o personaje, tanto en redes sociales como en medios digitales.',
     },

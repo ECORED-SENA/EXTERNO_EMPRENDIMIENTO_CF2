@@ -71,7 +71,7 @@
                 figure.text-center
                   img(src="@/assets/curso/tema2/5.svg" style="display:inline;max-width:100px;")
                 h4.mt-3.text-center Identificar
-                p.text-center Las limitaciones externas y propias de un emprendedor jóven, siempre existen, lo que implica la necesidad de generar alternativas y opciones para tomar el mejor camino, de acuerdo con la situación.
+                p.text-center Las limitaciones externas y propias de un emprendedor joven, siempre existen, lo que implica la necesidad de generar alternativas y opciones para tomar el mejor camino, de acuerdo con la situación.
         .col-md-4
           .tarjeta.tarjeta-flip
             .indicador--hover
@@ -158,7 +158,7 @@
         img.imagen_1(src="@/assets/curso/tema2/20.png" data-aos="fade-left" style="position:absolute;z-index:2;width: auto;top: -74px;left: -37px;")
       .col-lg-8
         div.p-4(style="position:relative;")
-          p(data-aos="fade-up" style="position:relative;z-index:2;") Sin duda alguna #[strong un emprendedor joven es una persona en constante reinvención y debe tener la disposición para desarrollar habilidades conforme a la humanidad vaya avanzando], por ejemplo si hiciéramos un análisis de lo que sucedía hace unos 20 años escuchar la palabra community manager era algo que no tenía sentido, pero hoy es un término común, lo que nos lleva a pensar que las personas han tenido que desarrollar habilidades para poder ejercer esa labor y por supuesto #[strong(style="color:#21999A") los emprendedores para integrar las habilidades de ese cargo a sus emprendimientos y planeaciones, reconocer la importancia de las redes sociales y la creación de contenido].
+          p(data-aos="fade-up" style="position:relative;z-index:2;") Sin duda alguna #[strong un emprendedor joven es una persona en constante reinvención y debe tener la disposición para desarrollar habilidades conforme a la humanidad vaya avanzando], por ejemplo si hiciéramos un análisis de lo que sucedía hace unos 20 años escuchar la palabra #[em community management] era algo que no tenía sentido, pero hoy es un término común, lo que nos lleva a pensar que las personas han tenido que desarrollar habilidades para poder ejercer esa labor y por supuesto #[strong(style="color:#21999A") los emprendedores para integrar las habilidades de ese cargo a sus emprendimientos y planeaciones, reconocer la importancia de las redes sociales y la creación de contenido].
 
     .p-3.caja_mas_loca
       p.text-center.mt-5(data-aos="fade-up") #[strong Según la Unión Europea], las habilidades que debe tener un emprendedor son (Vargas, 2015):
